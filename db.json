@@ -1,0 +1,110 @@
+{
+  "cabins": [
+    {
+      "id": 4,
+      "name": "Eigerøy fyrvokterbolig",
+      "DDLat": 58.43237,
+      "DDLon": 5.87049,
+      "air_temperature": null,
+      "wind_speed": null,
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ycffldz9he2fd0riekpl",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ahfv2zhggsbql8phssxo",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/rubxwtcpv9lb31oiyuj6",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/amaziyjc9pl4az2a6yz1",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/edsfmrnuk3hncziwihhk",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/w9euuuha6mhzuk1dqfml",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/xvzobsdqrisc8sclm1nq",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/hdaqhe2hrwnq5qsfe8ui",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/bepdjl55tv1nw3ci889a",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/lecesabmfoohrrckiov5",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/afnl1fd4qjozd3tzpac7",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/yopxjpryeqvysbpszx6r",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/kvtrpvfqidzj6huhgttu"
+        ],
+      "beds": 12,
+      "fylke": "Rogaland",
+      "betjening": "Ubetjent",
+      "altitude": 5,
+      "facilities": ["220v", "Booking", "Fiske", "Strømovn", "Mobildekning", "Steikeovn", "Dusj", "Teltplass", "Vann", "WC"],
+      "description": "Et par hundre meter fra fyret, blant glattskurte svaberg og vindskjeve trær, ligger fyrvokterboligen som huset vokterne som drev landets første støpejernsfyr. Her er det lett å trives! Fyrvokterboligen ligger langt nok inn i le til at man er skjermet for de verste stormkastene, men likevel langt nok ute i havgapet til at man kjenner det når vinden herjer utenfor. Og selv om det er værhardt når det står på, er området rundt Eigerøy fyr først og fremst et idyllisk landskap med store muligheter for kystnært friluftsliv. Her kan du bade, fiske, fange krabber og plukke skjell, padle, ro eller gå deg en tur i det flotte området. ",
+      "booking": "https://reservations.visbook.com/7639?lang=no",
+      "directions": "Adkomst sommer: Fra E39 kjører man Krossmoveien (426) mot Egersund. Følg veien mot Eigerøy på Eigerøyveien (426), og sving ettehvert inn på Ytstebrødveien (4286). Kjør så inn på Segleimsveien som følges til parkering ved Nautasundet. Fra parkeringen er det ca 2,2 km å gå inn til hytta. De første 1,7 km på grusvei, siste 500 meter på sti/fjell. Adkomst vinter: Fra E39 kjører man Krossmoveien (426) mot Egersund. Følg veien mot Eigerøy på Eigerøyveien (426), og sving ettehvert inn på Ytstebrødveien (4286). Kjør så inn på Segleimsveien som følges til parkering ved Nautasundet. Fra parkeringen er det ca 2,2 km å gå inn til hytta. De første 1,7 km på grusvei, siste 500 meter på sti/fjell.",
+      "stops": [
+        {
+          "Midbrød": 2245
+        },
+        {
+          "Segleim": 2323
+        },
+        {
+          "Samslått": 2691
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Simskardhytta",
+      "DDLat": 65.2852,
+      "DDLon": 13.65903,
+      "air_temperature": null,
+      "wind_speed": null,
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/qdxmnlc8iscjflkqguqc",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/h0c2hoxloagrzfzun8nr",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/biptfwchufhmjapp9ago",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ezow7qqxygxayd34wbvm",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/n5yrrbyxidrrepjkurd5",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/yieg27ful9jef2vc4b66",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/kw5gv0obtjdht6mkbs62",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/gkdmnq9dpgigtw6xh1xa",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/e8aqkpu6egwqttbjafxs",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/q525ysohdzr1pcpqinct"
+        ],
+      "beds": 6,
+      "fylke": "Nordland",
+      "betjening": "Ubetjent",
+      "altitude": 468,
+      "facilities": null,
+      "description": "Området er et godt utgangspunkt for jakt, fiske og toppturer i den ville og vakre Børgefjell nasjonalpark. I Børgefjell er det sørsamisk tamreindrift, det betyr at du kan se aktivitet og spor av reindrift både ved hytta og på turer fra hytta. Husk å vis hensyn. Utleiedelen er nyoppusset og ligger i bakkant av bygget. Denne delen er 20 kvadratmeter og består av ett rom med fem sengeplasser og en brisk uten madrass. Ta med liggeunderlag. Hytta er fullt utstyrt med kjøkken, spisebord, benker og vedovn. Det er ikke sengetøy foruten puter til 6.",
+      "booking": "https://www.inatur.no/hytte/613f31b4eaa897000352eff0/simskardhytta-ei-lita-perle-i-borgefjell-nasjonalpark-grane-i-nordland",
+      "directions": "Adkomst sommer: Fra Trøndelag: 5,5 km nord for Majavatn tar du av til høyre, mot Fiplingvatnet. Kjør langs Øvre Fiplingvatnet til du nærmer deg Nedre Fiplingvatnet. Ta så til høyre og følg skilting mot Børgefjell. Fra 'hovedveien' er det 3 km grusvei opp til sommerparkeringen. På vinteren må du parkere på brøytet plass ved 'hovedveien'/ Austfiplingdalsvegen. Fra Trofors (nordfra langs E6): ta til venstre ved Esso på Trofors og følg skilting mot Hattfjelldal. Etter 11,5 km skal du ta av til høyre over elva, følg skilting mot Fiplingdal/ Villmarksveien. Følg veien til Fiplingdal 'sentrum' (Fiplingdal Landhandel, skole, bhg), og ta til venstre mot Børgefjellskolen. Følg Austfiplingdalsvegen 16 km langs Nedre Fiplingvatnet, før du tar opp til venstre mot Børgefjell. Sommerparkeringen ligger 3 km (langs grusvei) inn i Simskardet. På vinteren må du parkere på brøytet plass ved 'hovedveien'/ Austfiplingdalsvegen.",
+      "stops": null
+    },
+    {
+      "id": 6,
+      "name": "Kasttjønnhytta",
+      "DDLat": 64.11613,
+      "DDLon": 12.97454,
+      "air_temperature": null,
+      "wind_speed": null,
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/oeul4p4cnmy7glud2bgu",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/j6zcd28hcmp0xcfbybwm",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/wh5rntuh8jltf9ry5xvw",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/j2jcc6qcczxtxeiamt8f"
+        ],
+      "beds": 4,
+      "fylke": "Trøndelag",
+      "betjening": "Ubetjent",
+      "altitude": 520,
+      "facilities": ["220v", "Fiske", "Vedovn"],
+      "description": "Ei lita og enkel hytte på 15 m2 ved Storkasttjønna.",
+      "booking": "https://www.inatur.no/hytte/5224cf96e4b0b9036db43736/kasttjonnhytta-pa-gjefsjoen-fjellgard",
+      "directions": null,
+      "stops": null
+    }
+  ]
+}
