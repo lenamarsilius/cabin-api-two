@@ -36,13 +36,16 @@
       "directions": "Adkomst sommer: Fra E39 kjører man Krossmoveien (426) mot Egersund. Følg veien mot Eigerøy på Eigerøyveien (426), og sving ettehvert inn på Ytstebrødveien (4286). Kjør så inn på Segleimsveien som følges til parkering ved Nautasundet. Fra parkeringen er det ca 2,2 km å gå inn til hytta. De første 1,7 km på grusvei, siste 500 meter på sti/fjell. Adkomst vinter: Fra E39 kjører man Krossmoveien (426) mot Egersund. Følg veien mot Eigerøy på Eigerøyveien (426), og sving ettehvert inn på Ytstebrødveien (4286). Kjør så inn på Segleimsveien som følges til parkering ved Nautasundet. Fra parkeringen er det ca 2,2 km å gå inn til hytta. De første 1,7 km på grusvei, siste 500 meter på sti/fjell.",
       "stops": [
         {
-          "Midbrød": 2245
+          "stop": "Midbrød",
+          "distance": 2245
         },
         {
-          "Segleim": 2323
+          "stop": "Segleim",
+          "distance": 2323
         },
         {
-          "Samslått": 2691
+          "stop": "Samslått",
+          "distance": 2691
         }
       ]
     },
